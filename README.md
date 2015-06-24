@@ -1,5 +1,5 @@
 # Amazon Web Services: Infrastructure in a Few Clicks 
-# by Travis Carlson 
+### by Travis Carlson (http://tcarlson.systems)
 
 ## Abstract
 
